@@ -14,6 +14,7 @@ Nice to meet you here.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mooncat126&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mooncat126&theme=default)     
 
+<!--
 #### Skill
  <div>
     <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
@@ -41,6 +42,6 @@ Nice to meet you here.
   </div>
    
 <br />  
-
+-->
     
 </details>
