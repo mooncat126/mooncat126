@@ -6,9 +6,6 @@
    <img height="20" src="https://img.shields.io/twitter/follow/koko01260126?label=Twitter&logo=twitter&style=flat" />
 </a>
 
-There is the land where I share toys and take a break. <br />
-Nice to meet you here.
-
 #### Coding Life 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mooncat126&theme=default)&nbsp;&nbsp;
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mooncat126&theme=default)
