@@ -1,9 +1,9 @@
 <a href="https://github.com/Kisky3/Kisky3/">
     <img src="https://komarev.com/ghpvc/?username=Kisky3" alt="Kisky3" />
 </a>
- <a href="http://twitter.com/Kisky0126">
+<!--  <a href="http://twitter.com/Kisky0126">
    <img height="20" src="https://img.shields.io/twitter/follow/koko01260126?label=Twitter&logo=twitter&style=flat" />
-</a>
+</a> -->
 <br/ >
  <div>
     <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
